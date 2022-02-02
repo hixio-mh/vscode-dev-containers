@@ -15,7 +15,7 @@
 	},
 	"dependencies": {
 		"express": "^4.16.1",
-		"isomorphic-fetch": "^2.2.1",
+		"isomorphic-fetch": "^3.0.0",
 		"tslint-to-eslint-config": "^0.2.11"
 	},
 	"devDependencies": {
