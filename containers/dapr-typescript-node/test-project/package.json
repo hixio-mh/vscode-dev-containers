@@ -14,7 +14,7 @@
 		"test": " REGRESSION_TESTING=true npm start"
 	},
 	"dependencies": {
-		"express": "^4.16.1",
+		"express": "^4.18.2",
 		"isomorphic-fetch": "^2.2.1",
 		"tslint-to-eslint-config": "^0.2.11"
 	},
